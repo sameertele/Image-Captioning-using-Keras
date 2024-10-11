@@ -22,7 +22,7 @@ Used Inception v3 model to extract features from images and used global word2vec
 * Add the word "starting " to the start of every caption and " ending" to the end of every caption.
 * Find the 200dim glove value for every word in the vocabulary.
 # Model architecture
-<img src="image/model.png">
+<img src="images/model.png">
 # Test results
-<img src="image/test1.png">
-<br><img src="image/test2.png">
+<img src="images/test1.png">
+<br><img src="images/test2.png">
